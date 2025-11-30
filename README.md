@@ -46,10 +46,6 @@ Comandos de atualização e remoção:
 - `DELETE` com filtros  
 - Desativação do modo seguro:
 
-```
-SET SQL_SAFE_UPDATES = 0;
-```
-
 ---
 
 ## 🚀 Como executar
