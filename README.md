@@ -1,6 +1,6 @@
 # 📘 Sistema Escolar: modelagem e banco de dados em MySQL
 
-Este repositório contém os scripts SQL desenvolvidos para a Atividade 4, referentes ao mini-mundo *Sistema Escolar*.
+Projeto acadêmico de modelagem e manipulação de um banco de dados relacional em MySQL 8.0 para o mini-mundo *Sistema Escolar*.
 
 ## 📂 Arquivos incluídos
 
