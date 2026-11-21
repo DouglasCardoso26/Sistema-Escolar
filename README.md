@@ -1,4 +1,4 @@
-# 📘 Atividade 04 – Criação e Manipulação de Dados com SQL
+# 📘 Sistema Escolar: modelagem e banco de dados em MySQL
 
 Este repositório contém os scripts SQL desenvolvidos para a Atividade 4, referentes ao mini-mundo *Sistema Escolar*.
 
